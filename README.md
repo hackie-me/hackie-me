@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [www.hardik.works](https://www.hardik.works)
 
-- 📝 I regularly write articles on [https://medium.com/@hardikkanajariya](https://medium.com/@hardikkanajariya)
+- 📝 I regularly write articles on [medium.com/@hardikkanajariya](https://medium.com/@hardikkanajariya)
 
 - 💬 Ask me about **web, android and game development**
 
 - 📫 How to reach me **hardikkanajariya@yahoo.com**
 
-- 📄 Know about my experiences [www.hardik.works](www.hardik.works)
+- 📄 Know about my experiences [www.hardik.works](https://www.hardik.works)
 
 - ⚡ Fun fact **I think I am Funny**
 
