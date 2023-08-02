@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hardikkanajariya@yahoo.com**
 
-- 📄 Know about my experiences [www.hardik.works](https://www.hardik.works)
+- 📄 Know about my experiences [www.hkdevs.tech](https://www.hkdevs.tech)
 
 - ⚡ Fun fact **I think I am Funny**
 
