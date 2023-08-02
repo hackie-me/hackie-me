@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET Core, Flutter, Android, Angular**
 
-- 👨‍💻 All of my projects are available at [www.hardik.works](https://www.hardik.works)
+- 👨‍💻 All of my projects are available at [www.hkdevs.tech](https://www.hkdevs.tech)
 
 - 📝 I regularly write articles on [medium.com/@hardikkanajariya](https://medium.com/@hardikkanajariya)
 
