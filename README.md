@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackie-me&column=-1&margin-w=15&margin-h=15" alt="hackie-me" /></a> </p>
 
-- 🔭 I’m currently working on [Foodify](https://github.com/hackie-me/Foodify)
+- 🔭 I’m currently working on [Hkdevs - Building Portfolio](https://www.hkdevs.tech)
 
 - 🌱 I’m currently learning **.NET Core, Flutter, Android, Angular**
 
