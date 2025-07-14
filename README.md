@@ -1,53 +1,283 @@
-<h1 align="center">Hi 👋, I'm Hardik Kanajariya</h1>
-<h3 align="center">A passionate freelance web developer from India</h3>
+<div align="center">
+  
+# 🚀 Welcome to Hardik Kanajariya's Code Universe! 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackie-me&column=-1&margin-w=15&margin-h=15" alt="hackie-me" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;.NET+Web+API+Expert+%F0%9F%94%A7;Angular+Frontend+Developer+%E2%9A%A1;Laravel+%26+Next.js+Freelancer+%F0%9F%92%BC;CodeCanyon+Author+%E2%AD%90;Always+Building+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 
-- 🔭 I’m currently working on [Hkdevs - Building Portfolio](https://hardikkanjariya.tech/)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-- 🌱 I’m currently learning **.NET Core, Flutter, Android, Angular**
+[![Profile Views](https://komarev.com/ghpvc/?username=hardikkanajariya&color=blueviolet&style=for-the-badge)](https://github.com/hardikkanajariya)
+[![GitHub followers](https://img.shields.io/github/followers/hardikkanajariya?style=for-the-badge&color=blue)](https://github.com/hardikkanajariya)
 
-- 👨‍💻 All of my projects are available at [hardikkanjariya.tech](https://hardikkanjariya.tech/)
+</div>
 
-- 📝 I regularly write articles on [medium.com/@hardikkanajariya](https://medium.com/@hardikkanajariya)
+---
 
-- 💬 Ask me about **web, android and game development**
+## 🎭 About Me
 
-- 📫 How to reach me **hardikkanajariya@yahoo.com**
+```javascript
+const hardikKanajariya = {
+    name: "Hardik Kanajariya",
+    role: "Full Stack Developer",
+    currentJob: {
+        company: "Kale Logistics",
+        stack: [".NET Web API", "Angular"],
+        position: "Software Developer"
+    },
+    
+    freelanceWork: {
+        technologies: ["Laravel", "Next.js"],
+        focus: "Web Applications & Custom Solutions"
+    },
+    
+    sideProjects: {
+        platform: "CodeCanyon",
+        profile: "hkdevlopers",
+        speciality: "Web Scripts & Templates"
+    },
+    
+    location: "India 🇮🇳",
+    
+    currentlyLearning: [
+        "Advanced .NET Core features",
+        "Angular latest updates",
+        "Laravel best practices",
+        "Next.js 14 features"
+    ],
+    
+    philosophy: "Clean code, efficient solutions, and continuous learning!",
+    
+    funFact: "I debug .NET by day and build Laravel magic by night! 🌙",
+    
+    getInTouch: function() {
+        return {
+            email: "hardikkanajariya@yahoo.com",
+            codecanyon: "hkdevlopers",
+            github: "hardikkanajariya"
+        };
+    }
+};
+```
 
-- 📄 Know about my experiences [hardikkanjariya.tech](https://hardikkanjariya.tech/)
+<div align="center">
 
-- ⚡ Fun fact **I think I am Funny**
+## 🛠️ Tech Stack & Tools
 
+### 💼 Professional Work Stack
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackie-me&" alt="hackie-me" /></p>
+### 🚀 Freelance & Side Projects
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/3am-solver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="3am-solver" height="30" width="40" /></a>
-<a href="https://dev.to/3amsolver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="3amsolver" height="30" width="40" /></a>
-<a href="https://twitter.com/hardik09205007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hardik09205007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hardik-kanajariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik-kanajariya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20913098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20913098" height="30" width="40" /></a>
-<a href="https://codesandbox.com/hackie-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hackie-me" height="30" width="40" /></a>
-<a href="https://fb.com/hackiee.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hackiee.me" height="30" width="40" /></a>
-<a href="https://instagram.com/hackie.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hackie.me" height="30" width="40" /></a>
-<a href="https://dribbble.com/hackie-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hackie-me" height="30" width="40" /></a>
-<a href="https://medium.com/@hardikkanajariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hardikkanajariya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackiiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackiiee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_hackie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_hackie" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@hackiiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hackiiee" height="30" width="40" /></a>
-</p>
+### 🗄️ Databases & Tools
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+</div>
 
-<h3 align="left">Git Stats:</h3>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackie-me&show_icons=true&locale=en&layout=compact" alt="hackie-me" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackie-me&show_icons=true&locale=en" alt="hackie-me" /></p>
+## 📊 GitHub Analytics
 
-### 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Hardik09205007)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardikkanajariya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkanajariya&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+## 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkanajariya&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🎯 Current Focus Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Day Job @ Kale Logistics
+- **Enterprise .NET Web APIs**
+- **Angular Frontend Development**
+- **Database Design & Optimization**
+- **API Integration & Management**
+- **Business Logic Implementation**
+
+</td>
+<td width="50%">
+
+### 🌙 Freelance Projects
+- **Laravel Web Applications**
+- **Next.js Modern Frontends**
+- **Custom Business Solutions**
+- **E-commerce Development**
+- **API Development & Integration**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💰 CodeCanyon Marketplace
+
+### 🏪 HKDevlopers Store
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**🌟 Specializations:**
+- Laravel Web Scripts
+- PHP Applications
+- Custom Web Solutions
+- Database-driven Applications
+- Modern Web Templates
+
+[![CodeCanyon Profile](https://img.shields.io/badge/CodeCanyon-92C83E?style=for-the-badge&logo=envato&logoColor=white)](https://codecanyon.net/user/hkdevlopers)
+
+</div>
+
+---
+
+## 📈 Professional Journey
+
+```mermaid
+graph LR
+    A[.NET Developer] --> B[Angular Integration]
+    B --> C[Full Stack Expert]
+    C --> D[Laravel Freelancer]
+    D --> E[Next.js Projects]
+    E --> F[CodeCanyon Author]
+```
+
+---
+
+<div align="center">
+
+## 🛠️ Current Tech Stack
+
+### 🏢 Professional Stack (Kale Logistics)
+```
+Backend:  .NET Core Web API + C#
+Frontend: Angular + TypeScript
+Database: SQL Server
+Tools:    Visual Studio, Git, Azure DevOps
+```
+
+### 💻 Freelance Stack
+```
+Backend:  Laravel + PHP / Next.js API Routes
+Frontend: Next.js + React / Laravel Blade
+Database: MySQL / PostgreSQL
+Tools:    VS Code, Composer, npm/yarn
+```
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hardikkanajariya&theme=tokyo-night&hide_border=true)
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="mailto:hardikkanajariya@yahoo.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://codecanyon.net/user/hkdevlopers">
+  <img src="https://img.shields.io/badge/CodeCanyon-92C83E?style=for-the-badge&logo=envato&logoColor=white" alt="CodeCanyon"/>
+</a>
+<a href="https://github.com/hardikkanajariya">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+### 💼 Open for Freelance Projects!
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+
+**Laravel • Next.js • Custom Web Solutions**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎭 Developer Life
+
+<details>
+<summary>🎯 My Coding Philosophy!</summary>
+
+```
+🏢 .NET by Day, Laravel by Night
+⚡ Performance > Pretty Code
+🔧 Right Tool for the Right Job
+📚 Never Stop Learning
+☕ Coffee.exe is always running
+```
+
+</details>
+
+<details>
+<summary>📊 Fun Developer Stats</summary>
+
+```
+📅 Coding Since: Several years now
+🏢 Professional: .NET Web APIs + Angular
+🌙 Freelance: Laravel + Next.js
+☕ Coffee Dependency: Critical Level
+🐛 Bugs Squashed: Countless
+💡 Solutions Built: Many satisfied clients
+```
+
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💝 Support My Work
+
+If you find my open source contributions helpful! ⭐
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hardikkanajariya)
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+
+**"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+⭐ **From [hardikkanajariya](https://github.com/hardikkanajariya)** with ❤️
+
+</div>
